@@ -1,4 +1,4 @@
-namespace DesafioProjetoHospedagem.Models
+﻿namespace DesafioExplorando.Models
 {
     public class Suite
     {
@@ -16,3 +16,4 @@ namespace DesafioProjetoHospedagem.Models
         public decimal ValorDiaria { get; set; }
     }
 }
+

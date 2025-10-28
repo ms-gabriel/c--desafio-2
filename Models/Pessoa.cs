@@ -1,4 +1,4 @@
-namespace DesafioProjetoHospedagem.Models;
+﻿namespace DesafioExplorando.Models;
 
 public class Pessoa
 {
@@ -19,3 +19,4 @@ public class Pessoa
     public string Sobrenome { get; set; }
     public string NomeCompleto => $"{Nome} {Sobrenome}".ToUpper();
 }
+
